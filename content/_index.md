@@ -27,4 +27,4 @@ end
 
 ---
 
-### Writings
+### Blog
