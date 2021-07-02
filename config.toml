@@ -24,7 +24,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A simple, minimal blog for those who love text."
-    footer = "Open-Source | [Github](https://github.com/goodroot/hugo-classic) | [Keybase](https://keybase.io/goodroot)"
+    footer = "Spacemen's Club © 2021"
     custom_css = ["css/theme-override.css"]
 
 # If you want to use Fathom (https://usefathom.com) for analytics, add this section
