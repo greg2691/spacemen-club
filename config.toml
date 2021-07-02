@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Classic"
+title = "Spacemen's Club"
 theme = "hugo-classic"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -8,7 +8,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "↩"
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+    post = "/:slug/"
 
 [[menu.main]]
     name = "Categories"
@@ -32,4 +32,3 @@ footnotereturnlinkcontents = "↩"
     siteID = "ABCDE"
     # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
     serverURL = "analytics.example.com"
-
