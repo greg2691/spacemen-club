@@ -1,7 +1,7 @@
 ---
 title: "Hello From Macbook"
 date: 2021-07-21T12:11:39+02:00
-draft: true
+draft: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porta egestas orci, auctor dapibus sem tempor at. Integer eget molestie nisi. Vivamus vel orci sodales, pulvinar orci vitae, faucibus enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sit amet diam pharetra, dignissim urna eget, ultricies dolor. Donec id iaculis orci, quis varius ante. Proin vitae lacinia purus. Aliquam vel pharetra nibh. Fusce at ultricies enim. Fusce at nibh et nisl dapibus finibus et sed magna. Aliquam arcu velit, fermentum non nunc eget, imperdiet blandit libero.
