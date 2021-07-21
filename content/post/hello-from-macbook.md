@@ -1,5 +1,8 @@
 ---
 title: "Hello From Macbook"
+author: "Admin"
+categories:
+  - Blog
 date: 2021-07-21T12:11:39+02:00
 draft: false
 ---
